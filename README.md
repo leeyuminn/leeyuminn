@@ -1,7 +1,7 @@
 ### 💙
 I'm a student studying at Hanyang University. 👀
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyuminn)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyuminn&layout=compact&theme=grey&hide=C#)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyuminn&show_icons=true&theme=graywhite)
 
