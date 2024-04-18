@@ -1,4 +1,4 @@
-### Hi there 💙
+### 💙
 I'm a student studying at Hanyang University. 👀
 
 
