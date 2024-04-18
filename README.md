@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 💙
+# I'm a student studying at Hanyang University. 👀
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leeyuminn&show_icons=true&theme=graywhite)
 
