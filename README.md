@@ -5,7 +5,7 @@ I'm a student studying at Hanyang University. 👀
 
 <!--
 **leeyuminn/leeyuminn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyuminn&layout=compact&langs_count=8&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leeyuminn&layout=compact&langs_count=8&count_private=true) //language stat
 
 Here are some ideas to get you started:
 
